@@ -5,7 +5,7 @@
       branches:
         - main
 
-    workflow_dispatch:
+          #    workflow_dispatch:
 
   env:
     HELM_DOCS_VERSION: '1.14.2'
